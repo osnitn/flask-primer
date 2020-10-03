@@ -1,0 +1,16 @@
+<html lang="en">
+    <head>
+        <title>
+            {% if title=="About" %}
+            About Page | My App
+            {% elif title=="Contact" %}
+            Contact Page
+            {% else %}
+            myapp.com
+            {% endif %}
+        </title>
+    </head>
+    <body>
+        <a href="/">Homepage</a>
+        <a href="/about">About</a>
+        <a href="/contact">Contact</a>
