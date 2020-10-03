@@ -1,4 +1,4 @@
-# Web Development using Flask for Medium
+# Web Development using Flask
 ## What is Flask?
 Flask is a light-weight framework with a built-in server that will allow us to turn our Python scripts into web pages and web apps. Simply put, Flask allows us to make websites with Python. 
 
@@ -231,9 +231,6 @@ Bootstrap is a platform for designing responsive web pages. Heroku is a platform
 
 ## References
 
-Check out the [GitHub repository](https://github.com/rakshitraj/webdev) and [Git Pages](rakshitraj.github.io/webdev) for this project. The repo contains further information on APIs.
-
 This project is based on [OneMonth](www.onemonth.com)'s tutorial (_highly recommended_) offered for free with the [Github Student Pack](education.github.com). Benefits from the pack also include a License to BOOTSTRAP STUDIO, a powerful desktop app for designing and prototyping websites.
 
-Thanks for reading!
-
+Happy learning!
